@@ -40,3 +40,5 @@ CSS selector adalah css yang pendeklarasiannya unik, seperti contoh jika **ID** 
 ## CONTOH CODE DAN HASILNYA 
 
 ![Menambahkan_CSS_Selector](img/css_selector.png)
+
+## TERIMA KASIH
